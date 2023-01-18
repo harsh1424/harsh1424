@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harsh1424
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning new web technology
-- 💞️ I’m looking to collaborate on wen dev projects
+- 💞️ I’m looking to collaborate on web dev projects
 - 📫 How to reach me harshyash1424@gmail.com
 
 <!---
