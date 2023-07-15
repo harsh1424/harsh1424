@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning new web technology
 - 💞️ I’m looking to collaborate on web dev projects
-- 📫 How to reach me harshyash1424@gmail.com
+- 📫 How to reach me hraj1492001@gmail.com
 
 <!---
 harsh1424/harsh1424 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
